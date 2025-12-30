@@ -1,4 +1,5 @@
 pandas
-ta
+requests
+pandas_ta
 backtesting
 binance-connector
