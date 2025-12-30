@@ -1,6 +1,6 @@
 # Binance-BiTimeframe-Algo 🚀
 
-**Binance-BiTimeframe-Algo ** is a systematic algorithmic trading engine designed for the **Binance Spot Market**. It features a hybrid execution model with dual-timeframe trend analysis (1H Trend + 5M Entry) and institutional-grade risk management.
+**Binance-BiTimeframe-Algo** is a systematic algorithmic trading engine designed for the **Binance Spot Market**. It features a hybrid execution model with dual-timeframe trend analysis (1H Trend + 5M Entry) and institutional-grade risk management.
 
 ## ⚡ Key Features
 * **Dual Timeframe Analysis:** Filters trades based on 1H trends (EMA 21) while executing entries on 5M candles.
@@ -30,3 +30,4 @@
 **Run Live Trading (Spot Testnet):**
 ```bash
 python live_runner.py
+
