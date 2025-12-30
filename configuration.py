@@ -5,8 +5,8 @@ class Config:
     TESTNET_BASE_URL = "https://testnet.binance.vision"
     
     # API KEYS (Replace with your Testnet Keys)
-    API_KEY = 'xbSipqKW46PAjuACQAkDfhyqiJ22J24tVaXnd8c0hpHaRdE95XTJe8k3ZUbit4Hk'
-    API_SECRET = 'XoBEMy8uWMNZsvkEKTxnNCqS30AKeV5OFd2L4Fxroxs2yy1Dee2mHOp97yUfqzKk'
+    API_KEY = 'YOUR API KEY'
+    API_SECRET = 'YOUR API SECRET'
 
     # Timeframes
     TF_ENTRY = '5m'  # Entry timeframe
@@ -20,5 +20,5 @@ class Config:
     # File Paths
     CSV_5M = 'BTCUSDT_5m_1000.csv' # User provided CSV path
     CSV_1H = 'BTCUSDT_1h_1000.csv'   # User provided CSV path
-    BACKTEST_OUTPUT = 'backtest_trades.csv'
-    LIVE_OUTPUT = 'live_trades.csv'
+    BACKTEST_OUTPUT = 'backtest_trades.csv' # To store trades while backtesting
+    LIVE_OUTPUT = 'live_trades.csv' # To store live trades
