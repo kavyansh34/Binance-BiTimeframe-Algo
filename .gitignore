@@ -1,0 +1,16 @@
+# Security: Ignore real keys
+configuration.py
+keys.py
+secrets.py
+
+# Ignore Data & Logs
+*.csv
+*.log
+logs/
+data/
+
+# Python Cache
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
