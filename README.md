@@ -37,4 +37,4 @@ python live_runner.py
 python backtest_runner.py
 ```
 
-**sample trades** are provided in 
+**sample trades** are provided in Screenshot 2025-12-30 181028.png file
