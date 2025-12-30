@@ -30,4 +30,9 @@
 **Run Live Trading (Spot Testnet):**
 ```bash
 python live_runner.py
+```
 
+**Run backtest window :**
+```bash
+python backtest_runner.py
+```
